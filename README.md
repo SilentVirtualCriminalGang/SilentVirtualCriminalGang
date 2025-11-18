@@ -1,11 +1,6 @@
 # 💫 About Me:
 ⚠️ Creator<br><br>⚠️ Destroyer <br><br>⚠️ Attacker<br><br>⚠️ Tester<br><br>⚠️ Also Boring person!
 
-## 📜 Certification
-[![Cyber Hygiene](https://cdn-icons-png.flaticon.com/512/11502/11502078.png)](https://sf-cyber-sochetonota.s3.ap-southeast-1.amazonaws.com/public/course/certificate/kazi_ashraful_jaman_cyber_hygiene_95265.pdf)
-
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/WHO.AM.I.X0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/may_be_kazi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Exploiter404) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrsadhonkazi3395@gmail.com) 
 
